@@ -42,6 +42,9 @@ writing in English and other mother-tongue.
     </li>
   {% endfor %}
 </ul>
+
+## [Kalinga Karubaki: Princess of Love and War (Click here)]({{ site.files }}/Kalinga_Karubaki.pdf)
+
 {% comment %}
 1. [Adjective Part 1]({% post_url 2022-09-07-adjective-part-1 %})
 2. [Adjective Part 2]({% post_url 2022-09-07-adjective-part-2 %})

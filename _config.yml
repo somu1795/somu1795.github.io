@@ -12,7 +12,8 @@ plugins:
 
 disable_disk_cache: true
 
-
+images: assets/images
+files: assets/files
 just_the_docs:
   collections:
     posts:
