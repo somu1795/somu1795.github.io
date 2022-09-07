@@ -43,7 +43,8 @@ writing in English and other mother-tongue.
   {% endfor %}
 </ul>
 
-## [Kalinga Karubaki: Princess of Love and War (Click here)]({{ site.files }}/Kalinga_Karubaki.pdf)
+## [Kalinga Karubaki: Princess of Love and War (Click here)]({{ site.files }}/Kalinga_Karubaki.pdf) (Odia)
+## [Kalinga Karubaki: Princess of Love and War (Click here)]({{ site.files }}/Kalinga_Karubaki_translated.pdf) (Translated)
 
 {% comment %}
 1. [Adjective Part 1]({% post_url 2022-09-07-adjective-part-1 %})
