@@ -2,6 +2,7 @@
 layout: post
 title: Adjective Part 2
 date: 2022-09-07 17:15 +0530
+nav_order: 2
 ---
 # Word Bank  of adjective
 

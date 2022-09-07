@@ -2,6 +2,7 @@
 layout: post
 title: Adjective Part 1
 date: 2022-09-07 13:41 +0530
+nav_order: 1
 ---
 ## Word Bank  of adjectives part -1 for class I to VI
 

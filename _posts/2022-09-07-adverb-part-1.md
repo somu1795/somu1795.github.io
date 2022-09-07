@@ -2,6 +2,7 @@
 layout: post
 title: Adverb Part 1
 date: 2022-09-07 18:31 +0530
+nav_order: 3
 ---
 # Adverbpart -1
 ## for class I to VI
