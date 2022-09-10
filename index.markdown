@@ -4,12 +4,6 @@
 
 layout: home
 ---
-[Link button](http://example.com/){: .btn }
-[Link button](http://example.com/){: .btn .btn-purple }
-[Link button](http://example.com/){: .btn .btn-blue }
-[Link button](http://example.com/){: .btn .btn-green }
-[Link button](http://example.com/){: .btn .btn-outline }
-
 # <center>New Discovery</center>
 
 ## <center>New Knowledge of Word Making</center>
