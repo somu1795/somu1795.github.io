@@ -20,8 +20,6 @@ just_the_docs:
 
 permalink: /posts/:title.html
 
-ga_tracking: G-QMGYW8ZQ9C
-ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 kramdown:
   syntax_highlighter_opts:
     block:
