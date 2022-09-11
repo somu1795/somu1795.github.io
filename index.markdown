@@ -27,6 +27,9 @@ garden. It helps to remember all words easily in a musical way so one can recall
 This site is dedicated to all the school children across the globe, who face difficulties in speaking and
 writing in English and other mother-tongue.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vhvzQi_bMKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F7FfbXavilk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe
+
 ## <mark>Must Read and Remember (Students' Paradise of Words)</mark>
 
 <ul>
