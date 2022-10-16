@@ -5,7 +5,7 @@
 layout: home
 ---
 # <center>New Discovery</center>
-
+image.png
 ## <center>New Knowledge of Word Making</center>
 
 Knowledge of Word Making is very important, innovative and inspiring for all students of schools and colleges.
