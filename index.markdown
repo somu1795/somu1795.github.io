@@ -23,11 +23,10 @@ Mahavatar Sri Sri Sri Babaji Maharaj |  Solarized Ocean
 
 <p style="color:SlateBlue;">A great dream comes true. Mahatma Dharmananda.  
  In honour of our beloved Gurudev , Christ like soul in human frame , Mahavatar Sri Sri Sri Babaji Maharaj . Pranam . Humbly pray for instant spiritual benefit.</p>
-<br></br>
-<p style="color:MediumSeaGreen;">World famous VEDICENGLISH is dedicated in honour of Gaani Devi, a great teacher and a divine soul of inspiration. The daughter of India should be rewarded by our graceful people who dream India first and to serve the mankind first. Pranam pranam. Send your good will message to gaani.usi@gmail.com.<br></br>
+<br>
+<p style="color:MediumSeaGreen;">World famous VEDICENGLISH is dedicated in honour of Gaani Devi, a great teacher and a divine soul of inspiration. The daughter of India should be rewarded by our graceful people who dream India first and to serve the mankind first. Pranam pranam. Send your good will message to gaani.usi@gmail.com.<br>
 <p style="color:Tomato;">Dedicated to the great ancestors of Mahatma Dharmananda ( Duryodhana - kanchana, Bahudi - Ranga, Banchanidhi Achyuta, Sadhu Sahoo, Village - Jahangirapatana, Banamalipura, Puri)</p>
-<br></br>  
-
+<br>
 Knowledge of Word Making is very important, innovative and inspiring for all students of schools and colleges.  
 Vedic English enables automatic flow of words in the mind, to write and speak immediately without thinking for
 words. Language and litreature is more difficult to learn than Science and Mathematics. Till date no simple method
