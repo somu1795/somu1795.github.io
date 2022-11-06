@@ -16,7 +16,7 @@ Mahavatar Sri Sri Sri Babaji Maharaj |  Solarized Ocean
 ![Kalingaa Karubaki!](/assets/files/Mahavatar_Babaji_med1.jpg)  |  ![Kalingaa Karubaki!](/assets/files/baba.png))
 {% endcomment %}
 
-<p float="left">
+<p float="center">
   <img src="/assets/files/Mahavatar_Babaji_med1.jpg" width="150" />
   <img src="/assets/files/baba.png" width="150" />
 </p>
