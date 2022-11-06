@@ -8,16 +8,17 @@ layout: home
 
 ## <center>New Knowledge of Word Making</center>
 
+{% comment %}
 ![Kalingaa Karubaki!](/assets/files/Mahavatar_Babaji_med1.jpg)
 
 Mahavatar Sri Sri Sri Babaji Maharaj |  Solarized Ocean
 :-------------------------:|:-------------------------:
 ![Kalingaa Karubaki!](/assets/files/Mahavatar_Babaji_med1.jpg)  |  ![Kalingaa Karubaki!](/assets/files/baba.png))
+{% endcomment %}
 
-TEst:
 <p float="left">
-  <img src="/assets/files/Mahavatar_Babaji_med1.jpg" width="100" />
-  <img src="/assets/files/baba.png" width="100" />
+  <img src="/assets/files/Mahavatar_Babaji_med1.jpg" width="150" />
+  <img src="/assets/files/baba.png" width="150" />
 </p>
 
 
