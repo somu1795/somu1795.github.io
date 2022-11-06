@@ -8,6 +8,19 @@ layout: home
 
 ## <center>New Knowledge of Word Making</center>
 
+![Kalingaa Karubaki!](/assets/files/Mahavatar_Babaji_med1.jpg)
+
+Mahavatar Sri Sri Sri Babaji Maharaj |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![Kalingaa Karubaki!](/assets/files/Mahavatar_Babaji_med1.jpg)  |  ![Kalingaa Karubaki!](/assets/files/baba.png))
+
+TEst:
+<p float="left">
+  <img src="/assets/files/Mahavatar_Babaji_med1.jpg" width="100" />
+  <img src="/assets/files/baba.png" width="100" />
+</p>
+
+
 Knowledge of Word Making is very important, innovative and inspiring for all students of schools and colleges.
 Vedic English enables automatic flow of words in the mind, to write and speak immediately without thinking for
 words. Language and litreature is more difficult to learn than Science and Mathematics. Till date no simple method
@@ -27,10 +40,13 @@ This site is dedicated to all the school children across the globe, who face dif
 writing in English and other mother-tongue.  
 
 <div class="box">
+<!-- Singing Words 'ful' -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mv5d503Xi6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<!-- Singing Words 'cal' -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AYp3lKD9d-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<!-- Singing Words 'ment' -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5qH40KN8MFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--- Subarna Chilika -->
@@ -51,7 +67,7 @@ writing in English and other mother-tongue.
 </ul>
 
 ## [Kalinga Karubaki: Princess of Love and War (Click here)]({{ site.files }}/Kalinga_Karubaki.pdf) (Odia)
-![My helpful screenshot](/assets/files/kalingaa_karubaki.png)
+![Kalingaa Karubaki!](/assets/files/kalingaa_karubaki.png)
 ## [Kalinga Karubaki: Princess of Love and War (Click here)]({{ site.files }}/Kalinga_Karubaki_translated.pdf) (Translated)
 
 {% comment %}
