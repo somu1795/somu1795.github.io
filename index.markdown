@@ -34,10 +34,10 @@ was discovered for students. Vedic English is a new method to improve in any mot
 popular among students in every home.  
 Till date we learn alphabets, words, word meaning (dictionary), grammar , prose poetry and story, and also read
 single words. For this reason we can't write and speak spontaneously without thinking. Knowledge of Word Making is innovative to teach the world in musical way for the first time to excel in English.  
-
+  
 **Daily listen audio of Vedic English for 10 minutes in International/Indian voice to achieve mastery over the words, good command over word power, easily remember and recall, to improve creative hidden talent within you.**  
-
-**Spread this website to your friends through twitter ,whatsapp ,facebook and other social networking sites. To excel in English language easily, one should read and write 2000 "and" words, 200 strong verbs. It helps spontaneous command over word power to speak and write immediately.**
+  
+**Spread this website to your friends through twitter ,whatsapp ,facebook and other social networking sites. To excel in English language easily, one should read and write 2000 "and" words, 200 strong verbs. It helps spontaneous command over word power to speak and write immediately.**  
 
 __When you read the word beautiful you must read all words i.e beautiful flower, beautiful queen, beautiful nature, beautiful palace, beautiful valley, beautiful sunrise, beautiful moon light, beautiful expression, beautiful feeling, beautiful scenery, beautiful poem, beautiful art, beautiful garden. It helps to remember all words easily in a musical way so one can recall immediately.__  
 
