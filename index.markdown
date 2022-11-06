@@ -22,29 +22,26 @@ Mahavatar Sri Sri Sri Babaji Maharaj |  Solarized Ocean
 </p>
 
 <p style="color:SlateBlue;">A great dream comes true. Mahatma Dharmananda.  
- In honour of our beloved Gurudev , Christ like soul in human frame , Mahavatar Sri Sri Sri Babaji Maharaj . Pranam . Humbly pray for instant spiritual benefit.<br></p>  
-
+ In honour of our beloved Gurudev , Christ like soul in human frame , Mahavatar Sri Sri Sri Babaji Maharaj . Pranam . Humbly pray for instant spiritual benefit.</p>
+<br>
 <p style="color:MediumSeaGreen;">World famous VEDICENGLISH is dedicated in honour of Gaani Devi, a great teacher and a divine soul of inspiration. The daughter of India should be rewarded by our graceful people who dream India first and to serve the mankind first. Pranam pranam. Send your good will message to gaani.usi@gmail.com.<br>
-<p style="color:Tomato;">Dedicated to the great ancestors of Mahatma Dharmananda ( Duryodhana - kanchana, Bahudi - Ranga, Banchanidhi Achyuta, Sadhu Sahoo, Village - Jahangirapatana, Banamalipura, Puri)<br></p>
-
-
-Knowledge of Word Making is very important, innovative and inspiring for all students of schools and colleges.
+<p style="color:Tomato;">Dedicated to the great ancestors of Mahatma Dharmananda ( Duryodhana - kanchana, Bahudi - Ranga, Banchanidhi Achyuta, Sadhu Sahoo, Village - Jahangirapatana, Banamalipura, Puri)</p>
+<br>
+Knowledge of Word Making is very important, innovative and inspiring for all students of schools and colleges.  
 Vedic English enables automatic flow of words in the mind, to write and speak immediately without thinking for
 words. Language and litreature is more difficult to learn than Science and Mathematics. Till date no simple method
-was discovered for students. Vedic English is a new method to improve in any mothertongue by knowing word making of adjectives, adverbs, nouns and verbs. It is the grace of God to save mothertongue and to achieve mastery
-over many languages. For it's profound importance it is followed in all schools and colleges of the world and
+was discovered for students. Vedic English is a new method to improve in any mothertongue by knowing word making of adjectives, adverbs, nouns and verbs. It is the grace of God to save mothertongue and to achieve mastery over many languages. For it's profound importance it is followed in all schools and colleges of the world and
 popular among students in every home.  
 Till date we learn alphabets, words, word meaning (dictionary), grammar , prose poetry and story, and also read
 single words. For this reason we can't write and speak spontaneously without thinking. Knowledge of Word Making is innovative to teach the world in musical way for the first time to excel in English.  
-__Daily listen audio of Vedic English for 10 minutes in International/Indian voice to achieve__    
-mastery over the words, good command over word power, easily remember and recall, to improve creative hidden
-talent within you.  
-__Spread this website to your friends through twitter ,whatsapp ,facebook and other social networking sites. To excel in English language easily, one should read and write 2000 "and" words, 200 strong verbs. It helps spontaneous command over word power to speak and write immediately.__  
+
+**Daily listen audio of Vedic English for 10 minutes in International/Indian voice to achieve mastery over the words, good command over word power, easily remember and recall, to improve creative hidden talent within you.**  
+
+**Spread this website to your friends through twitter ,whatsapp ,facebook and other social networking sites. To excel in English language easily, one should read and write 2000 "and" words, 200 strong verbs. It helps spontaneous command over word power to speak and write immediately.**
 
 __When you read the word beautiful you must read all words i.e beautiful flower, beautiful queen, beautiful nature, beautiful palace, beautiful valley, beautiful sunrise, beautiful moon light, beautiful expression, beautiful feeling, beautiful scenery, beautiful poem, beautiful art, beautiful garden. It helps to remember all words easily in a musical way so one can recall immediately.__  
 
-This site is dedicated to all the school children across the globe, who face difficulties in speaking and
-writing in English and other mother-tongue.  
+This site is dedicated to all the school children across the globe, who face difficulties in speaking and writing in English and other mother-tongue.  
 
 <div class="box">
 <!-- Singing Words 'ful' -->
@@ -55,6 +52,33 @@ writing in English and other mother-tongue.
 
 <!-- Singing Words 'ment' -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5qH40KN8MFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- Singing Words 'tion' -->
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Ga1f-gOhqwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- Singing Words 'cate' -->
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=oHrHwPD2cSY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- Singing Words 'tive' -->
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=AXi_k-Q6pVg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- Singing Words 'ous' -->
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=WcMGubFlQxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- Singing Words 'able' -->
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=eNK64MwvqGQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- Singing Words 'LY part 1' -->
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=TojBS4ziFq0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- Singing Words 'LY part 2' -->
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=cGra0pKxMjM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- Singing Words 'LY part 3' -->
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=LbTc8K1Isbc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- Singing Words 'And words vital key' -->
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=XypTax-gcys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--- Subarna Chilika -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vhvzQi_bMKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
