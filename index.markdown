@@ -54,31 +54,31 @@ This site is dedicated to all the school children across the globe, who face dif
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5qH40KN8MFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- Singing Words 'tion' -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ga1f-gOhqwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ga1f-gOhqwg?enablejsapi=1&origin=https://vedicenglish.com" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- Singing Words 'cate' -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oHrHwPD2cSY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oHrHwPD2cSY?enablejsapi=1&origin=https://vedicenglish.com" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- Singing Words 'tive' -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AXi_k-Q6pVg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AXi_k-Q6pVg?enablejsapi=1&origin=https://vedicenglish.com" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- Singing Words 'ous' -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WcMGubFlQxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WcMGubFlQxE?enablejsapi=1&origin=https://vedicenglish.com" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- Singing Words 'able' -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eNK64MwvqGQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eNK64MwvqGQ?enablejsapi=1&origin=https://vedicenglish.com" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- Singing Words 'LY part 1' -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TojBS4ziFq0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TojBS4ziFq0?enablejsapi=1&origin=https://vedicenglish.com" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- Singing Words 'LY part 2' -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cGra0pKxMjM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cGra0pKxMjM?enablejsapi=1&origin=https://vedicenglish.com" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- Singing Words 'LY part 3' -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LbTc8K1Isbc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LbTc8K1Isbc?enablejsapi=1&origin=https://vedicenglish.com" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- Singing Words 'And words vital key' -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XypTax-gcys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XypTax-gcys?enablejsapi=1&origin=https://vedicenglish.com" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--- Subarna Chilika -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vhvzQi_bMKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
