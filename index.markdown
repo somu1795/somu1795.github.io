@@ -16,7 +16,7 @@ layout: home
 
 <p style="color:SlateBlue;">A great dream comes true. Mahatma Dharmananda.  
 In honour of our beloved Gurudev , Christ like soul in human frame , Mahavatar Sri Sri Sri Babaji Maharaj . Pranam . Humbly pray for instant spiritual benefit.</p>
-<p style="color:MediumSeaGreen;">World famous VEDICENGLISH is dedicated in honour of Gaani Devi, a great teacher and a divine soul of inspiration. The daughter of India should be rewarded by our graceful people who dream India first and to serve the mankind first. Pranam pranam. Send your good will message to gaani.usi@gmail.com.
+<p style="color:MediumSeaGreen;">World famous VEDICENGLISH is dedicated in honour of Gaani Devi, a great teacher and a divine soul of inspiration. The daughter of India should be rewarded by our graceful people who dream India first and to serve the mankind first. Pranam pranam. Send your good will message to gaani.usi@gmail.com.</p>
 <p style="color:Tomato;">Dedicated to the great ancestors of Mahatma Dharmananda ( Duryodhana - kanchana, Bahudi - Ranga, Banchanidhi Achyuta, Sadhu Sahoo, Village - Jahangirapatana, Banamalipura, Puri)</p>
 
 Knowledge of Word Making is very important, innovative and inspiring for all students of schools and colleges.  
@@ -89,9 +89,9 @@ This site is dedicated to all the school children across the globe, who face dif
   {% endfor %}
 </ul>
 
-## [Kalinga Karubaki: Princess of Love and War (Click here)]({{ site.files }}/Kalinga_Karubaki.pdf) (Odia)
+## [Kalinga Karubaki: Princess of Love and War (Click here)](/assets/files/Kalinga_Karubaki.pdf) (Odia)
 ![Kalingaa Karubaki!](/assets/files/kalingaa_karubaki.png)
-## [Kalinga Karubaki: Princess of Love and War (Click here)]({{ site.files }}/Kalinga_Karubaki_translated.pdf) (Translated)
+## [Kalinga Karubaki: Princess of Love and War (Click here)](/assets/files/Kalinga_Karubaki_translated.pdf) (Translated)
 
 {% comment %}
 1. [Adjective Part 1]({% post_url 2022-09-07-adjective-part-1 %})
