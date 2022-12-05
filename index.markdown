@@ -5,8 +5,7 @@
 layout: home
 ---
 <center><h1 class="display-3">New Discovery</h1></center>  
-# <center>New Discovery</center>  
-## Musical Word Making.. Secret of Students Creative Talent. Practice Daily for Creative Excellence
+<center><h1 class="display-6">Musical Word Making | Secret of Students Creative Talent | Practice Daily for Creative Excellence</h1></center>
 
 ## <center>New Knowledge of Word Making</center>
 
