@@ -24,53 +24,42 @@ KEY TO  READ
 
 For example:
 
-                 Please read beautiful landscape, rainbow, thing, looking, girl, lady, princess, poem, story, novel, art, palace, building, valley, house, as  beautiful life,  beautiful nature, beautiful picture, beautiful flower, bird, clouds, beautiful sea,
+Please read in the following manner:  
+beautiful landscape, rainbow, thing, looking, girl, lady, princess, poem, story, novel, art, palace, building, valley, house, as  beautiful life,  beautiful nature, beautiful picture, beautiful flower, bird, clouds, beautiful sea
  
 ## O
 
-Obedient- student, staff,  boy, always, obedient and dutiful,
- 
+Obedient- student, staff,  boy, always, obedient and dutiful  
 
-Objectionable – picture, film, painting, speech, statement, behavior,
- 
+Objectionable – picture, film, painting, speech, statement, behavior  
 
-obscene- picture, film, story, writing,
- 
+obscene- picture, film, story, writing  
 
-obscene – and indecent, ugly, filthy,
- 
+obscene – and indecent, ugly, filthy  
 
-observable and observant- to observe easily, observing  minutely,
+observable and observant- to observe easily, observing  minutely  
 
-obvious- clear and plain
- 
+obvious- clear and plain  
 
-obvious- fact, thing, picture, case, it is obvious, it is clear .it is convincing, it is established,
+obvious- fact, thing, picture, case, it is obvious, it is clear .it is convincing, it is established  
 
-occasional- incident, happening, view, and accidental, rare,
+occasional- incident, happening, view, and accidental, rare  
 
-odd-  and outdated, strange and peculiar, odd- thing, number, time, hour,  looking odd, odd and ugly, very odd,
- 
+odd - and outdated, strange and peculiar, odd- thing, number, time, hour,  looking odd, odd and ugly, very odd  
 
-off – time, hour, compensatory off, days, switch off, off road vehicle, off and on, off side,
- 
+off – time, hour, compensatory off, days, switch off, off road vehicle, off and on, off side  
 
-offensive-  act, war, attack, activity, statement, very,
- 
+offensive-  act, war, attack, activity, statement, very  
 
-offensive and aggressive, and insulting, and repulsive,
- 
+offensive and aggressive, and insulting, and repulsive  
 
-official – business, transaction, time, duty, visit, meeting, tour, way, procedure,
- 
+official – business, transaction, time, duty, visit, meeting, tour, way, procedure  
 
-oily- paper, surface, things, area,
- 
+oily- paper, surface, things, area  
 
-okay- and all right, fine,
- 
+okay- and all right, fine  
 
-old- old is gold, old and experienced, old and ancient, old and wise,
+old- old is gold, old and experienced, old and ancient, old and wise
  
 
 old – days, time, man, age, very,
@@ -87,11 +76,12 @@ Onward- march, journey, course, and advanced,
 
 Opaque-  object, glass, water, and transparent,
 
- Open sky, field, book, place, house, heart, mind, always, open-hearted, Open-minded,
+Open sky, field, book, place, house, heart, mind, always, open-hearted, Open-minded,
 
-Optimistic life, poet, leader, boy, people, ,
+Optimistic life, poet, leader, boy, people, 
 
-Original  story, fact, truth, case,  matter, thing, gold, certificate,  
+Original  story, fact, truth, case,  matter, thing, gold, certificate  
+
 Outgoing  president, minister, secretary,
 Outstanding work, achievement, victory,
  
@@ -167,76 +157,96 @@ overall – performance, activity, preparation, situation, security
 own-  property, life, child, country, house,
 
 ## P
- Parental property, house
-Particular thing, game, house, case
+Parental - property, house  
 
-Peaceful nature, life, looking, sky, mountain, city,
-perfect  case,  idea, plan, project, looking perfect,
+Particular - thing, game, house, case
 
-Philanthropic  act, service, aid,
+Peaceful - nature, life, looking, sky, mountain, city  
 
-Picturesque  beauty, setting, village, valley, nature,   palace, description, mountain,
+perfect - case,  idea, plan, project, looking perfect,
 
-Pleasant  nature, beauty, face, look, experience, stay
+Philanthropic - act, service, aid,
 
-Polished  floor, tile, gold, stone,
-Polite  person, officer, man, teacher,
-Popular song, music, leader, player, teacher, actor
+Picturesque - beauty, setting, village, valley, nature,   palace, description, mountain  
 
-Powerful leader, army, country, bomb, story,
-Practical  purpose, idea, thing, test, survey, enquiry
+Pleasant - nature, beauty, face, look, experience, stay  
 
-Precise fact, case,
-Premium quality
+Polished - floor, tile, gold, stone  
 
-Prime  thing, factor, minister,
+Polite - person, officer, man, teacher  
 
-Profitable  business, project
+Popular - song, music, leader, player, teacher, actor  
 
-Profound  work, task, plan, story, building, structure,expression, idea, beauty, manifestation
+Powerful - leader, army, country, bomb, story  
 
-Prompt action, help, decision,
+Practical -  purpose, idea, thing, test, survey, enquiry  
 
-Proper  care , action, plan, treatment, food,
-Prosperous  life, nature, man,
+Precise - fact, case  
+Premium - quality
 
-Proud leader, person, boy, work,
-Prudent act, work, person,
-Punctual  teacher, student, always,
-Pure gold, metal, thing, food, air,  
+Prime - thing, factor, minister  
+
+Profitable - business, project  
+
+Profound - work, task, plan, story, building, structure,expression, idea, beauty, manifestation
+
+Prompt - action, help, decision  
+
+Proper - care , action, plan, treatment, food  
+
+Prosperous - life, nature, man  
+
+Proud - leader, person, boy, work  
+
+Prudent - act, work, person,
+Punctual - teacher, student, always,
+Pure - gold, metal, thing, food, air    
 
 ## Q
 
-quality apple, mango, goods, table, control, test,
-quick act, decision, help, aid, relief
+quality - apple, mango, goods, table, control, test  
 
-quiet  peace, place, nature, locality, village
+quick - act, decision, help, aid, relief
+
+quiet - peace, place, nature, locality, village
+
 ## R
 
-Race- competition, motor race, cycle race, car race, racing cycle,
-Radar- station, image, facility, fitting,
-Radio- station, price, cost, centre,
+Race- competition, motor race, cycle race, car race, racing cycle  
+
+Radar- station, image, facility, fitting  
+
+Radio- station, price, cost, centre  
+
 Radish- vegetable
 
-rail – way, station, wagon, fare, ticket, route,
-rain- water, drop, forest, rainy season, day, night, rain-bow, rain-coat,
+rail – way, station, wagon, fare, ticket, route  
+
+rain- water, drop, forest, rainy season, day, night, rain-bow, rain-coat  
+
 rally- political, students, peoples, organizing rally
 
-range- mountain , Himalayan , beyond, within, shooting  range,
-rank- high , low, officer,
+range- mountain , Himalayan , beyond, within, shooting  range   
 
-rat –animal, trap, hole, meat,
+rank- high , low, officer
+
+rat –animal, trap, hole, meat
 
 rate- market, mango, car, wheat, reduced rate, concession rate, offer rate, high, highest, low, lowest
 
-ration-card, goods, store,
-ray- sun, moon, ray of hope, x-ray, gama ray,
+ration-card, goods, store  
+
+ray- sun, moon, ray of hope, x-ray, gama ray  
+
 razor – blade, sharp
 
-reader- good, voracious, news, passionate,
-readiness- our, army, police, country’s,
-reality- true, hardcore, picture, case, its reality
-rear-(back) seat, mirror, glass,
+reader- good, voracious, news, passionate  
+
+readiness- our, army, police, country’s  
+
+reality- true, hardcore, picture, case, its reality  
+
+rear-(back) seat, mirror, glass  
 
 reason- good, right, religious, peace, law-order, enough, many, this, that, trivial,  common, reason and common sense, good sense and reason,  for silly reason, minor reason, no reason, for the reason best known to him.  For what good reason,
 
@@ -1759,14 +1769,7 @@ cumbersome –
 Credible  information, person, source,  news, institution, certificate, 
 
 Curious- looking, thing, feeling ,
- 
 
- ---------------------------
- 
- 
- 
-
------------------
 ## B
 Backward – and back, behind, undeveloped, rearward, shy , hesitant, reluctant, diffident, regressive, recessive
 
